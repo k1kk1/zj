@@ -16,7 +16,7 @@ alias zj='~/your/path/zj.sh'
 - fzf
 - jq
 - bash
-- Linux or Mac or Windows Subsystem for Linux
+- Mac
 
 ## Usage
 ```
